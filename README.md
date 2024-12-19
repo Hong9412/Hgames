@@ -62,61 +62,61 @@
 
 ## 구현화면
 ### 메인 페이지
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/03d9f4f1-d01d-4a97-ac45-33b05459dacb"></img> <br/>
+![메인](https://github.com/user-attachments/assets/9a36e83e-ebb0-4692-92a6-8641ea7c8af2) <br/>
 
 ### 게임옵션
-![게임옵션](https://github.com/user-attachments/assets/44ceb4eb-6742-4432-9cae-372e5bd81dbc) <br/>
+![게임옵션](https://github.com/user-attachments/assets/15c5c1b5-2f2a-439d-9e78-f754e2d8c0ed) <br/>
 
 ### 프로모션
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/884f47d0-3e6c-4b79-9989-b7d4f5599c61"></img> <br/>
+![프로모션](https://github.com/user-attachments/assets/ece96b15-e2bb-4e98-87bb-12d41ddd812b) <br/>
 
 ### 공지사항
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/db1e4e3c-54fe-48ab-b02a-fec35de7c104"></img> <br/>
+![공지사항](https://github.com/user-attachments/assets/23efe396-613b-43a5-89c3-26c51d980409) <br/>
 
 ### 문의하기
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/e72c10d1-8ccb-4ae2-8154-396729d72a17"></img> <br/>
+![문의하기](https://github.com/user-attachments/assets/dd29dbb3-8b78-46a8-a4ac-b3d8afb45ee4) <br/>
 
 ### 로그인
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/549e6979-3048-4745-b40b-5334ee5f7293"></img> <br/>
+![로그인](https://github.com/user-attachments/assets/82a9d3fd-b8b3-4b89-9f0c-d67ea519be9b) <br/>
 
 ### 카카오로그인
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/5a6b7897-90e9-41de-9f93-20f939503f32"></img> <br/>
+![카카오로그인](https://github.com/user-attachments/assets/27889837-e7b1-42c6-8745-0592d3af4275) <br/>
 
 ### 회원가입
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/481fb307-28c4-4002-9a2b-325f7dbfe1d1"></img> <br/>
+![회원가입](https://github.com/user-attachments/assets/83a376d9-d081-4b88-80da-8ed856796de7) <br/>
 
 ### 마이페이지 - 회원관리
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/c108ab94-d2fc-46b6-b2f5-3f85a5bb4abd"></img> <br/>
+![회원관리](https://github.com/user-attachments/assets/65964792-c81e-4541-94e3-72d1a1eb6c4a) <br/>
 
 ### 마이페이지 - 정보수정
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/3f1ee75f-170a-4f50-8b0e-a9822061d99c"></img> <br/>
+![정보수정](https://github.com/user-attachments/assets/b010c09a-73be-4920-8e53-a2df161d3055) <br/>
 
 ### 마이페이지 - 결제내역
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/02d1c9bb-ce3c-4786-91fc-10144a4b43ca"></img> <br/>
+![결제내역](https://github.com/user-attachments/assets/b04d5976-3d6b-4180-ae0b-d50f6df56399) <br/>
 
 ### 마이페이지 - 문의내역
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/06d9a116-1616-4479-bac8-d7a50bbf3129"></img> <br/>
+![문의내역](https://github.com/user-attachments/assets/4f3cfe2a-dfbc-4fe5-bd2c-5abda8a8d587) <br/>
 
 ### 마이페이지 - 탈퇴하기
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/f32546db-73ee-43d3-b1b6-938820d1d529"></img> <br/>
+![회원탈퇴](https://github.com/user-attachments/assets/fc5c8b5e-245e-4aec-b9a9-30c81fd49471) <br/>
 
 ### 관리자 - 회원관리
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/ad4066c0-df19-4de5-9e4e-b33be985b7a0"></img> <br/>
+![관리자회원관리](https://github.com/user-attachments/assets/cf6dca03-096e-4a7c-9dd5-757ac5557677) <br/>
 
 ### 관리자 - 게임관리
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/f5e906a9-f807-4053-8bfb-f99f8e4183e3"></img> <br/>
+![관리자게임관리](https://github.com/user-attachments/assets/5be8b009-4aa0-4e81-b913-fc2bd447ae38) <br/>
 
 ### 관리자 - 게임등록
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/e91b249f-6197-4e0d-9217-02dda960696d"></img> <br/>
+![관리자게임등록](https://github.com/user-attachments/assets/16d5b9f5-1fae-4607-8890-d099a6d6f5eb) <br/>
 
 ### 관리자 - 프로모션관리
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/34c11f22-0db1-43bb-844b-8ef7463fce93"></img> <br/>
+![관리자프로모션관리](https://github.com/user-attachments/assets/a2ced8fb-c648-47fe-813d-236e10b47ab4) <br/>
 
 ### 관리자 - 프로모션등록
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/cdd8bde7-f571-48eb-b308-5228e92c7d97"></img> <br/>
+![관리자프로모션등록](https://github.com/user-attachments/assets/486670de-57d4-42d0-83c8-f5510a3455c8) <br/>
 
 ### 관리자 - 문의관리
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/d110f1d1-6231-4b1e-8306-f5812f755cc8"></img> <br/>
+![관리자문의관리](https://github.com/user-attachments/assets/ee8e1da4-ea7a-4b9e-9295-6166bd0c29c6) <br/>
 
 ### 관리자 - 공지관리
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/eaee0e5a-ff73-4e4d-b970-8a8e2460043f"></img> <br/>
+![관리자공지관리](https://github.com/user-attachments/assets/df382f1c-19b9-4c99-96ac-873eb45f2876) <br/>
