@@ -65,7 +65,7 @@
 <img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/03d9f4f1-d01d-4a97-ac45-33b05459dacb"></img> <br/>
 
 ### 게임옵션
-<img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/0c87a922-5d9d-457f-b50c-ddf09d0b0cf8"></img> <br/>
+![게임옵션](https://github.com/user-attachments/assets/44ceb4eb-6742-4432-9cae-372e5bd81dbc) <br/>
 
 ### 프로모션
 <img src="https://github.com/2311PublicDataWebApp/HongGames/assets/154963021/884f47d0-3e6c-4b79-9989-b7d4f5599c61"></img> <br/>
