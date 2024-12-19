@@ -1,0 +1,310 @@
+@charset "UTF-8";
+body {
+  background-color: rgb(21, 18, 64);
+}
+div {
+  --border: 1px solid black;
+  --box-sizing: border-box;
+  text-align: center;
+  line-height: 5;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.main {
+  width: 100%;
+  height: 500px;
+  float: left;
+}
+  #articlemain {
+      width: 100%;
+      margin-top: 10px ;
+  }
+      #article {
+          width: 65%;
+          height: 500px;
+      }
+  .games {
+      width: 100%;
+      height: 150px;
+      background-color: rgb(38, 38, 76);
+      margin: 5px auto;
+  }
+  .games:hover {
+      transform: scale(1.05);
+  }
+
+  .gamesimg {
+      width: 23%;
+      height: 150px;
+      float: inline-start;
+  }
+  .flatform {
+      float: left;
+      width: 15%;
+      height: 100px;
+      margin-top: 25px;
+  }
+  .articleimg {
+      margin: 0;
+  }
+  #search1 {
+      width: 60%;
+      height: 50%;
+      background-color: rgb(46, 36, 110);
+      border: 1px solid rgb(24, 19, 55);
+      color: white;
+  }
+  #steamlogo {
+      color: beige;
+      height: 50%;
+      width: 100px;
+      margin-top: 37px;
+      margin-left: 20px;
+  }
+  .gameinformation {
+      width: 40%;
+      height: 100%;
+      float:right;
+      color: white;
+      text-align: left;
+  }
+  .gameshop {
+      width: 22%;
+      height: 100%;
+      float:inline-end;
+      color: white;
+      text-align: center;
+  }
+  .blackArea {
+      width: 100%;
+      height: 50px;
+      padding: 20px;
+      margin-bottom: 30px;
+      margin-top: 0;
+      border-bottom: 1px solid gray;
+  }
+  .titleChoice {
+      text-align: left;
+      float: left;
+      color: white;
+      list-style-type: none;
+      width: 200px;
+  }
+  .titleChoice li a:hover {
+      background-color: rgb(16, 7, 31);
+  }
+  #totalgames {
+      text-align: right;
+      float: right;
+      margin-right: 50px;
+      font-size: 1.2em;
+  }
+      #shopcartbox {
+          width: 27%;
+          height: 50%;
+          position: relative;
+          top: 10px;
+          left: 194px;
+          top: -74px;
+      }
+      #shopcart {
+          width: 70px;
+          height: 70px;
+          position: relative;
+          --left: 80px;
+          top: 4px;
+      }
+      .articlemain {
+          height: 450px;
+      }
+
+      .slidelist {
+          list-style: none;
+      }
+      .slidelist > li {
+          list-style: none;
+      }
+      [name="slide"] {display: none;}
+      .articlemain {max-width: 1000px;margin: 0 auto;}
+      .articlemain img {max-width: 100%;}
+      .articlemain .slidelist {
+          white-space: nowrap;
+          font-size: 0;
+          overflow: hidden;
+      }
+      .articlemain .slideitem {
+          position: relative;
+          display: inline-block;
+          vertical-align: middle;
+          width: 100%;
+          transition: all .35s;
+      }
+      .articlemain .slideitem label {
+          position: absolute;
+          z-index: 1;
+          top: 50%;
+          transform: translateY(-50%);
+          padding: 20px;
+          border-radius: 50%;
+          cursor: pointer;
+      }
+      label.left {
+          left: 40px;
+          background-color: white;
+          background-image: url(../images/left-Arrow.png);
+          background-position: center center;
+          background-size: 50%;
+          background-repeat: no-repeat;
+      }
+      label.right {
+          right: 40px;
+          background-color: white;
+          background-image: url(../images/Right-Arrow.png);
+          background-position: center center;
+          background-size: 50%;
+          background-repeat: no-repeat;
+      }
+      [id="slide01"]:checked ~ .slidelist .slideitem {transform: translateX(0);animation: slide01 16s infinite;}
+      [id="slide02"]:checked ~ .slidelist .slideitem {transform: translateX(-100%);}
+      [id="slide03"]:checked ~ .slidelist .slideitem {transform: translateX(-200%);}
+      [id="slide04"]:checked ~ .slidelist .slideitem {transform: translateX(-300%);}
+
+      @keyframes slide01 {
+          0% {left: 0%;}
+          23% {left: 0%;}
+          25% {left: -100%;}
+          48% {left: -100%;}
+          50% {left: -200%;}
+          73% {left: -200%;}
+          75% {left: -300%;}
+          98% {left: -300%;}
+          100% {left: 0%;}
+      }
+      .공백 {
+          height: 50px;
+      }
+      #검색옵션메인 {
+          width: 100%;
+          box-sizing: border-box;
+          height: 1150px;
+
+      }
+      .검색옵션창 {
+          width: 27%;
+          float: left;
+          border-right: 1px solid gray;
+          height: 1100px;
+          color: white;
+      }
+      .게임리스트 {
+          width: 100%;
+      }
+      .검색옵션상단 {
+          padding: 0;
+          margin: 30px;
+          margin-top: -20px;
+          border-bottom: 1px solid gray;
+      }
+      .게임옵션상단 {
+          padding: 0;
+          margin: 30px;
+          margin-top: -20px;
+          border-bottom: 1px solid gray;
+          float: left;
+          width: 66%;
+          color: white;
+          text-align: left;
+      }
+      .옵션제목 {
+          width: 100px;
+          height: 50px;
+          text-align: center;
+          font-weight: 500;
+          margin: auto;
+          
+      }
+      .검색검색 {
+          width: 200px;
+          height: 38px;
+          text-align: center;
+          background-color: gray;
+      }
+      .체크박스1 {
+          margin: auto;
+          padding: 0;
+          float: middle;
+          position: relative;
+          top: -50px;
+      }
+      .체크박스2 {
+          margin: auto;
+          padding: 0;
+          float: middle;
+          position: relative;
+          top: -170px;
+          right: 47px;
+      }
+      .검색옵션버튼 {
+          width: 200px;
+          height: 50px;
+          background-color: rgb(124, 206, 179);
+          position: relative;
+          top: -160px;
+      }
+      #게임목록 {
+          width: 66%;
+          height: 900px;
+          float: left;
+          flex-wrap: wrap;
+          margin-left: 30px;
+      }
+      .games1 {
+          width: 250px;
+          height: 300px;
+          margin: 10px;
+          float: left;
+          border: 1px solid black;
+          background-color: rgb(26, 26, 63);
+      }
+      .games1 img {
+          width: 100%;
+          height: 50%;
+      }
+      .게임목록제목 {
+          color: white;
+          margin: 0 auto;
+          font-size: 14px;
+          text-align: center;
+          padding: 15px;
+          position: relative;
+          top: -60px;
+          height: 30px;
+      }
+      .플랫폼로고 {
+          width: 100px;
+          position: relative;
+          top: -30px;
+          left: 10px;
+          float: left;
+      }
+      .장르장르 {
+          color: gray;
+          width: 130px;
+          height: 30px;
+          float: left;
+          position: relative;
+          top: -85px;
+          right: 35px;
+      }
+      .장바구니 {
+          background-color: rgb(219, 219, 208);
+          width: 100px;
+          height: 40px;
+          position: relative;
+          top: -60px;
+      }
+      .games1:hover {
+      transform: scale(1.1);
+  }

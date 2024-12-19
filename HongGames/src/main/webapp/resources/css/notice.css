@@ -1,0 +1,20 @@
+@charset "UTF-8";
+header {
+  background-color: rgb(21, 18, 64);
+}
+main {
+  background-color: rgb(21, 18, 64);	
+}
+
+* {
+  background-color: rgb(21, 18, 64);
+  color : white;	
+}
+
+#table1 {
+	text-align: center;
+}
+
+.main-layer1 {
+	text-align: center;
+}

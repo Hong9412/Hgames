@@ -1,0 +1,19 @@
+@charset "UTF-8";
+	* {
+  		background-color : rgb(233, 236, 239);
+  		margin: 0;
+	}
+
+/* 	nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 > li > a{
+		color:white !important;	
+	}     */
+/* 	.nav-item > a{
+		color:white !important;	
+	} */
+	
+	.text-center text-body-secondary > h3{
+		color:white !important;		
+	}
+	.model {
+      --bs-modal-border-color: ;
+	}

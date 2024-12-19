@@ -1,0 +1,287 @@
+@charset "UTF-8";
+body {
+  background-color: rgb(21, 18, 64);
+}
+div {
+  --border: 1px solid black;
+  --box-sizing: border-box;
+  text-align: center;
+  --line-height: 5;
+} 
+a {
+  text-decoration: none;
+  color: white;
+}
+.main {
+  width: 100%;
+  height: 500px;
+  float: left;
+}
+  #articlemain {
+      width: 100%;
+      margin-top: 10px ;
+  }
+      #article {
+          width: 65%;
+          height: 500px;
+      }
+  .games {
+      width: 100%;
+      height: 150px;
+      background-color: rgb(38, 38, 76);
+      margin: 5px auto;
+  }
+  .gamesimg {
+      width: 23%;
+      height: 150px;
+      float: inline-start;
+  }
+  .flatform {
+      float: left;
+      width: 15%;
+      height: 100px;
+      margin-top: 25px;
+  }
+  .articleimg {
+      margin: 0;
+  }
+  #search1 {
+      width: 60%;
+      height: 50%;
+      background-color: rgb(46, 36, 110);
+      border: 1px solid rgb(24, 19, 55);
+      color: white;
+  }
+  #steamlogo {
+      color: beige;
+      height: 50%;
+      width: 100px;
+      margin-top: 37px;
+      margin-left: 20px;
+  }
+  .gameinformation {
+      width: 40%;
+      height: 100%;
+      float:right;
+      color: white;
+      text-align: left;
+  }
+  .gameshop {
+      width: 22%;
+      height: 100%;
+      float:inline-end;
+      color: white;
+      text-align: center;
+  }
+  .blackArea {
+      width: 100%;
+      height: 50px;
+      padding: 20px;
+      margin-bottom: 30px;
+      margin-top: 0;
+      border-bottom: 1px solid gray;
+  }
+  .titleChoice {
+      text-align: left;
+      float: left;
+      color: white;
+      list-style-type: none;
+      width: 200px;
+  }
+  .titleChoice li a:hover {
+      background-color: rgb(16, 7, 31);
+  }
+  #totalgames {
+      text-align: right;
+      float: right;
+      margin-right: 50px;
+      font-size: 1.2em;
+  }
+      #shopcartbox {
+          width: 27%;
+          height: 50%;
+          position: relative;
+          top: 10px;
+          left: 194px;
+          top: -74px;
+      }
+      #shopcart {
+          width: 70px;
+          height: 70px;
+          position: relative;
+          --left: 80px;
+          top: 4px;
+      }
+      #gamelist {
+          width: 50%;
+          margin: 0px auto;
+          position: relative;
+          
+      }
+      #login {
+          color: white;
+          margin: 0;
+          padding: 0;
+          /* border: 1px solid #2b91af; */
+      }
+          #login > div {
+              margin: 30px auto;
+              /* border: 1px solid gray; */
+              /* height: 50px; */
+          }
+          #login > div > h4 {
+              text-align: center;
+              color: white;
+              position: relative;
+              margin-bottom: -50px;
+          }
+          #login > div > p {
+              
+              text-align: left;
+              height: 10px;
+              margin: 10px;
+              padding: 10px;
+              margin-left: 150px;
+              margin-bottom : 20px;
+          }
+          #login > div > input {
+              height: 30px;
+              width: 50%;
+              margin-top: 10px;
+              background-color: whitesmoke;
+          }
+          #login1 > .btn1 {
+              width: 51%;
+              height: 40px;
+              background-color: #4fb7f3;
+              position: relative;
+              top: 10px;
+          }
+          /* * {
+              box-sizing: border-box;
+          } */
+          .tab-inner {
+              width: 700ox;
+              margin: 50px auto;
+          }
+          .tab-btn > a {
+              color: white;
+              display: inline-block;
+              width: 150px;
+              text-align: center;
+              --padding: 10px;
+              margin-right: -2px;
+              font-weight: 500;
+              
+          }
+          .tab-content {
+              position: relative;
+          }
+          .tab {
+              position: absolute;
+              top: 0;
+              left :0;
+              opacity: 0;
+              visibility: hidden;
+              transition: 0.5s;
+          }
+          .tab:target {
+              opacity: 1;
+              visibility: visible;
+          }
+          .tab img {
+              width: 30%;
+          }
+          table {
+              border: 1px solid gray;
+              color: white;
+              width: 1300px;
+              height: 100px;
+              text-align: center;
+              margin: 0 auto;
+              float: left;
+              border-collapse: collapse;
+              position: relative;
+              top: 60px;
+          }
+          .main-layer1 {
+              width: 100%;
+              float: left;
+              height: 800px;
+          }
+          .테이블이름 > th {
+              border: 1px solid gray;
+              background-color: rgb(175, 175, 175);
+              color: black;
+          }
+          .테이블값 > td {
+              border: 1px solid gray;
+          }
+          .테이블값 > td > a:hover {
+              color: rgb(76, 76, 192);
+          }
+          .tab-btn > a:hover {
+              background-color: rgb(85, 83, 83);
+          }
+      #tab1 {
+          line-height: 5;
+      }
+      #tab2 {
+          line-height: 5;
+      }
+      .tab-btn {
+          line-height: 5;
+      }
+      #회원탈퇴경고문 {
+          border-bottom: 1px solid gray;
+          margin-top: 30px;
+          margin-bottom: 40px;
+          height: 120px;
+          width: 1200px;
+      }
+      #회원탈퇴경고문 > span {
+          color: rgb(219, 67, 67);
+          padding: 0;
+      }
+      .회원탈퇴입력 {
+          text-align: left;
+          padding: 30px;
+          color: white;
+          font-size: 22px;
+          margin-left: 430px;
+          margin-top: 30px;
+          position: relative;
+          top: 40px;
+      }
+      #탈퇴사유선택 {
+          height: 33px;
+      }
+      #회원탈퇴확인 {
+          background-color: rgb(230, 44, 44);
+          width: 150px;
+          height: 40px;
+          border-radius: 7px;
+          position: relative;
+          top: 150px;
+          color: white;
+      }
+      .정보수정 {
+          color: white;
+          text-align: left;
+          height: 60px;
+          position: relative;
+          top: 50px;
+      }
+      .정보수정 > span {
+          width: 200px;
+          height: 50px;
+          float: left;
+          
+      }
+      .정보수정 > span > input {
+          height: 25px;
+      }
+      #tab3 {
+          width: 1200px;
+          height: 700px;
+      }
